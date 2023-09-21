@@ -13,4 +13,4 @@ It's a blog and I created these features:
 - Authentication with personal token
 - MongoDB database in which I find: the user's profile and his new or deleted posts
 - Google Analytics to track visitor behavior .
-- Varie dinamiche lato UI/UX.
+- Various dynamics on the UI/UX side .
