@@ -1,5 +1,5 @@
 # blogBoats
-BlogBoats - Project Digitazon School
+BlogBoats - Project 
 
 This is the final project that I made entirely by myself.
 It's a blog and I created these features:
