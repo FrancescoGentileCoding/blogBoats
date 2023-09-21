@@ -12,5 +12,5 @@ It's a blog and I created these features:
 - Encrypted passwords
 - Authentication with personal token
 - MongoDB database in which I find: the user's profile and his new or deleted posts
-- Google Analytics to track visitor behavior .
+- Google Analytics to track visitor behavior 
 - Various dynamics on the UI/UX side .
