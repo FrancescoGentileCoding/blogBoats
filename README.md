@@ -1,5 +1,5 @@
 # blogBoats
-BlogBoats - Project Digitazon School
+BlogBoats - Project 
 
 ENTER THE BLOGBOATS BRANCH TO SEE THE PROJECT
 ENTER THE BLOGBOATS BRANCH TO SEE THE PROJECT
